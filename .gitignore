@@ -1,0 +1,5 @@
+.idea
+composer.lock
+*.log
+.tags
+.tags_sorted_by_file
